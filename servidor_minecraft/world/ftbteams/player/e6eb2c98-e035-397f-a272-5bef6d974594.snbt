@@ -1,0 +1,17 @@
+{
+	id: "e6eb2c98-e035-397f-a272-5bef6d974594"
+	type: "player"
+	player_name: "Deagl3_"
+	ranks: {
+		e6eb2c98-e035-397f-a272-5bef6d974594: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Deagl3_"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF59E1"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
